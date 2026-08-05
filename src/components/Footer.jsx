@@ -31,7 +31,7 @@ export default function Footer() {
             Docs
           </a>
           <a
-            href="https://x.com/0xfortress"
+            href="https://x.com/try_fortress"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-white"
