@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 const SAMPLE_PROMPTS = [
-  "Supply USDC on Aave and borrow ETH against it",
+  "Supply USDG on Aave and borrow ETH against it",
   "Deposit my idle ETH in the safest lending market on Robinhood.",
   "Swap ETH for USDe when APY > 12.5% and supply to Morpho"
 ];

@@ -29,7 +29,7 @@ export default function FeaturesSection() {
                   <span className="inline-block h-3 w-[2px] bg-white animate-fcursor"></span>
                 </div>
                 <div className="mt-2.5 flex gap-1.5">
-                  <span className="border border-line bg-surface-2 px-1.5 py-0.5 text-[10px] text-fg-soft">USDC</span>
+                  <span className="border border-line bg-surface-2 px-1.5 py-0.5 text-[10px] text-fg-soft">USDG</span>
                   <span className="border border-line bg-surface-2 px-1.5 py-0.5 text-[10px] text-fg-soft">moderate</span>
                   <span className="border border-line bg-surface-2 px-1.5 py-0.5 text-[10px] text-fg-soft">Morpho</span>
                 </div>
@@ -110,7 +110,7 @@ export default function FeaturesSection() {
                   </span>
                 </div>
                 <div className="flex justify-between text-[11px] text-muted">
-                  <span>- 1,000 USDC</span>
+                  <span>- 1,000 USDG</span>
                   <span className="text-white">+ 0.28 ETH</span>
                 </div>
                 <div className="mt-1 text-[10px] text-faint">Est. Gas: $0.15</div>

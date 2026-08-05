@@ -43,7 +43,7 @@ export default function HowItWorksSection() {
                   <span className="text-[11px] font-bold tracking-widest text-muted uppercase">Fortress Agent</span>
                 </div>
                 <div className="text-[15px] leading-relaxed text-white">
-                  <span className="mr-1.5 text-muted">/</span>Supply USDC on Aave and borrow ETH against it
+                  <span className="mr-1.5 text-muted">/</span>Supply USDG on Aave and borrow ETH against it
                   <span className="ml-1 inline-block h-[14px] w-[2px] translate-y-[2px] bg-white animate-fcursor"></span>
                 </div>
               </div>
@@ -75,7 +75,7 @@ export default function HowItWorksSection() {
                     1
                   </div>
                   <div>
-                    <div className="text-[15px] font-medium text-white">Supply USDC</div>
+                    <div className="text-[15px] font-medium text-white">Supply USDG</div>
                     <div className="mt-0.5 text-[12px] text-muted">Aave V3 · Robinhood</div>
                   </div>
                 </div>
