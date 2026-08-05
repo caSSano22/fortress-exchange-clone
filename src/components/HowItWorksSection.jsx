@@ -76,7 +76,7 @@ export default function HowItWorksSection() {
                   </div>
                   <div>
                     <div className="text-[15px] font-medium text-white">Supply USDC</div>
-                    <div className="mt-0.5 text-[12px] text-muted">Aave V3 · Base</div>
+                    <div className="mt-0.5 text-[12px] text-muted">Aave V3 · Robinhood</div>
                   </div>
                 </div>
 
@@ -90,7 +90,7 @@ export default function HowItWorksSection() {
                   </div>
                   <div>
                     <div className="text-[15px] font-medium text-white">Borrow ETH</div>
-                    <div className="mt-0.5 text-[12px] text-muted">Aave V3 · Base</div>
+                    <div className="mt-0.5 text-[12px] text-muted">Aave V3 · Robinhood</div>
                   </div>
                 </div>
               </div>
@@ -120,7 +120,7 @@ export default function HowItWorksSection() {
                 <div className="mb-5 flex flex-col gap-3">
                   <div className="flex justify-between text-[13.5px]">
                     <span className="text-muted">Network</span>
-                    <span className="font-medium text-white">Base</span>
+                    <span className="font-medium text-white">Robinhood</span>
                   </div>
                   <div className="flex justify-between text-[13.5px]">
                     <span className="text-muted">Estimated Gas</span>

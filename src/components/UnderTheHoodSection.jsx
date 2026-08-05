@@ -42,7 +42,7 @@ export default function UnderTheHoodSection() {
                 <div className="flex items-start gap-3">
                   <span className="mt-1 select-none font-mono text-[13px] text-faint">$</span>
                   <p className="font-display text-[22px] font-bold leading-snug tracking-tight text-white sm:text-[28px]">
-                    Deposit my idle <span className="underline decoration-white/30">ETH</span> in the safest lending market on Base.
+                    Deposit my idle <span className="underline decoration-white/30">ETH</span> in the safest lending market on Robinhood.
                   </p>
                 </div>
               </div>
@@ -77,7 +77,7 @@ export default function UnderTheHoodSection() {
                 </div>
                 <div className="px-5 py-5">
                   <div className="mb-1 font-mono text-[10px] uppercase tracking-widest text-faint">network</div>
-                  <div className="font-display text-[16px] font-bold text-white">base</div>
+                  <div className="font-display text-[16px] font-bold text-white">robinhood</div>
                 </div>
                 <div className="px-5 py-5">
                   <div className="mb-1 font-mono text-[10px] uppercase tracking-widest text-faint">asset</div>
@@ -142,7 +142,7 @@ export default function UnderTheHoodSection() {
                   <div className="flex flex-1 flex-col gap-0.5 sm:flex-row sm:items-center sm:justify-between">
                     <span className="font-mono text-[11px] text-muted">Deposit ETH at best rate</span>
                     <span className="border border-line-soft bg-surface-2 px-2 py-0.5 font-mono text-[10px] text-fg-soft">
-                      Morpho · Base
+                      Morpho · Robinhood
                     </span>
                   </div>
                 </div>
@@ -153,12 +153,12 @@ export default function UnderTheHoodSection() {
                 <div className="px-5 py-4">
                   <div className="mb-0.5 font-mono text-[10px] uppercase tracking-widest text-faint">Best APY</div>
                   <div className="font-display text-[18px] font-bold text-white">4.82%</div>
-                  <div className="font-mono text-[10px] text-muted">Morpho · Base</div>
+                  <div className="font-mono text-[10px] text-muted">Morpho · Robinhood</div>
                 </div>
                 <div className="px-5 py-4">
                   <div className="mb-0.5 font-mono text-[10px] uppercase tracking-widest text-faint">Gas Est.</div>
                   <div className="font-display text-[18px] font-bold text-white">~$0.03</div>
-                  <div className="font-mono text-[10px] text-muted">Base L2</div>
+                  <div className="font-mono text-[10px] text-muted">Robinhood L2</div>
                 </div>
               </div>
 

@@ -16,7 +16,7 @@ export default function AutopilotSection() {
         </h2>
 
         <p className="mx-auto mt-6 max-w-[580px] text-[17px] leading-relaxed text-muted sm:text-[19px]">
-          Tell Fortress once what you want. It gets you in, keeps watch, and gets you out, all on its own. Non-custodial, on Base.
+          Tell Fortress once what you want. It gets you in, keeps watch, and gets you out, all on its own. Non-custodial, on Robinhood.
         </p>
 
         <div className="mt-10 flex justify-center">
